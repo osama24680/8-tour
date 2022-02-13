@@ -25,6 +25,10 @@ html{
     scroll-padding-top:6rem ;
     scroll-behavior: smooth;
 }
+body{
+    overflow: hidden;
+}
+
 section{
     padding: 1.5rem 9%;
 }
