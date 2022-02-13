@@ -83,6 +83,9 @@ header .logo{
 header .logo span{
     color: var(--orange)
 }
+header .navbar{
+    background-color:red;
+}
 header .navbar a {
     color:#fff;
     font-size: 2rem;
